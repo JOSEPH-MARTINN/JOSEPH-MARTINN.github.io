@@ -1,10 +1,11 @@
 body {
-background-color: #996600;
+background-color: #CFCFCF  ;
 /*  font-family: 'Freight Sans Bold', 'lucida grande',tahoma,verdana,arial,sans-serif;*/
   font-family: tahoma;
   font-size: 16px;
-  color: white;
+  color: black;
   margin: 0 auto;
+
 }
 
 #navigation {
@@ -64,6 +65,6 @@ background-color: #996600;
   width: 80%;
   clear: both;
   padding: 10px;
-  color: #000;
+  color: #000000;
   text-align: center;
 }
